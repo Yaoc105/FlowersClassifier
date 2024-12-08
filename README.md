@@ -3,6 +3,7 @@ I've attempted to make a flower classifier with the 102 oxford flowers dataset. 
 
 
 Because I think it'd be intresting to just drop this in somewhere, my planning google document is as follows:
+
 image classifier trained on: https://www.kaggle.com/datasets/yousefmohamed20/oxford-102-flower-dataset?select=README.md
  Aka from https://www.robots.ox.ac.uk/~vgg/data/flowers/102/
 
