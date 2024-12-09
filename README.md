@@ -1,6 +1,8 @@
 # FlowersClassifier
 I've attempted to make a flower classifier with the 102 oxford flowers dataset. This took a lot of google collab testing.
 
+I've only managed to get it to a 77% accuracy rate
+
 
 Because I think it'd be intresting to just drop this in somewhere, my planning google document is as follows:
 
